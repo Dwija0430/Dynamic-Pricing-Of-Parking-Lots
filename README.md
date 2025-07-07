@@ -1,4 +1,5 @@
-his project demonstrates a dynamic pricing system for urban parking lots using real-time data streams. The goal is to automatically adjust parking prices throughout the day based on factors such as occupancy, demand, traffic, and other conditions, in order to maximize parking space usage and improve efficiency.
+## Dynamic-Pricing-Of-Parking-Lots
+This project demonstrates a dynamic pricing system for urban parking lots using real-time data streams. The goal is to automatically adjust parking prices throughout the day based on factors such as occupancy, demand, traffic, and other conditions, in order to maximize parking space usage and improve efficiency.
 
 The system uses Pathway for real-time data processing, Pandas and Numpy for data analysis, and Bokeh along with Panel for interactive visualizations.
 
